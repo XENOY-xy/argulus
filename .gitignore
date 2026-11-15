@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.log
+scan_report_*.csv
+scan_report_*.json
+dist/
+build/
+*.spec
+.idea/
+.vscode/
